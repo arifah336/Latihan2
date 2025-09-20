@@ -91,19 +91,19 @@ export default function Contact() {
               </p>
               <ul className="space-y-2">
                 <li>
-                  📍 <span className="font-medium">Alamat:</span> Tanjung Sengkuang, Batu Ampar, Batam, Kepulauan Riau
+                  📍 <span className="font-medium">Alamat:</span> Bukit ayu lestari, Batam, Kepulauan Riau
                 </li>
                 <li>
                   📧 <span className="font-medium">Email:</span>{" "}
                   <a
-                    href="mailto:ardhityasiswondo@gmail.com"
+                    href="mailto:arifahhusaini03@gmail.com"
                     className="text-blue-600 dark:text-blue-400 hover:underline"
                   >
-                    ardhityasiswondo@gmail.com
+                    arifahhusaini03@gmail.com
                   </a>
                 </li>
                 <li>
-                  📞 <span className="font-medium">Phone:</span> +62 813-6372-3553
+                  📞 <span className="font-medium">Phone:</span> +62 857-9531-0609
                 </li>
               </ul>
             </div>
